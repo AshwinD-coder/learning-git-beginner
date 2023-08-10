@@ -1,2 +1,3 @@
 git log
 This i how i ll skip staging area and commit.
+Using git diff command.
