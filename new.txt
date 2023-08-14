@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is a change in main
-=======
+
+
 This is a change in feature1
->>>>>>> feature1
+
