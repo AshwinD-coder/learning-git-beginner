@@ -1,3 +1,7 @@
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c4011f9bdc18e489f824e83b88021c95170b9414
 This is a change in feature1
 
